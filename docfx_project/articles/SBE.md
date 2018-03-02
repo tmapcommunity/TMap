@@ -62,8 +62,7 @@ In 2003 introduceerde Brian Marick de Agile Testing Kwadranten. Dit is
 een model wat verschillende perspectieven weergeeft die relevant zijn
 bij productontwikkeling. Hieronder is een afbeelding van dit model.
 
-![](media/image2.jpg){width="6.495833333333334in"
-height="3.089583333333333in"}
+![Agile Testing Quadrants](..\images\SBE\Agile Testing Quadrants.jpg)
 
 In de kwadranten zijn voorbeelden gegeven van activiteiten die passen
 bij het kwadrant. Specification by Example zit hier in de twee linker
@@ -78,8 +77,7 @@ niveau. BDD zit in het midden dan hebben we het over integratie/service
 niveau. ATDD tot slot zit vooral boven in de pyramide. Dan hebben we het
 over E2E en gebruikersinterface niveau.
 
-![](media/image3.png){width="3.4803149606299213in"
-height="2.437007874015748in"}
+![Testpyramid_colour](..\images\SBE\Testpyramid_colour.png)
 
 TDD Concept
 -----------
@@ -93,8 +91,7 @@ zodat de code ook voldoet aan de coding standards die worden toegepast
 binnen het team. Deze laatste stap noemt men het refactoren van de code.
 In onderstaande afbeelding is het proces schematisch weergegeven.
 
-![](media/image4.png){width="4.586111111111111in"
-height="2.161111111111111in"}
+![Red-Green-Blue](..\images\SBE\Red-Green-Blue.png)
 
 Het grote voordeel van deze werkwijze is dat er in een vroeg stadium
 duidelijkheid en afbakening van de scope plaatsvindt. Dit haalt
@@ -129,9 +126,8 @@ betrokken zijn. Dit kan per organisatie verschillen.
 Wanneer we dit koppelen aan het TDD-concept ontstaat het volgende
 plaatje:
 
-Het start met bespreken van scope en wens door de Three
-Amigo![](media/image5.JPG){width="6.495833333333334in"
-height="3.452777777777778in"}'s en definiëren van de voorbeelden. Van
+![ATDD Cycle](..\images\SBE\ATDD Cycle.jpg)Het start met bespreken van scope en wens door de Three
+Amigo's en definiëren van de voorbeelden. Van
 daaruit wordt de definitieve scope voor de komende iteratie vastgesteld.
 Tijdens de iteratie wordt met behulp van de besproken scope en
 specificaties de functionaliteit ontwikkeld. Hierin zal ook het
@@ -155,8 +151,10 @@ van de applicatie moet worden aangepast. Bij een succesvolle uitvoer van
 de testen weet men ook dat dat de beschreven werking ook daadwerkelijk
 de werking is.
 
-![](media/image6.png){width="2.734027777777778in" height="1.61875in"}Rol van de tester
+Rol van de tester
 --------------------------------------------------------------------------------------
+
+![Three-Amigos](..\images\SBE\Three-Amigos.png)
 
 Zoals eerder beschreven is het essentieel om bij SbE een
 multidisciplinaire aanpak te hanteren. Dit biedt diverse voordelen. Zo
@@ -252,8 +250,7 @@ SbE toe te passen. Hiervoor zijn twee assen gedefinieerd: "People" en
 "Technology". Beide aspecten zijn noodzakelijk om tot een succesvolle
 toepassing van SbE te komen.
 
-![](media/image7.jpg){width="6.495833333333334in"
-height="3.654166666666667in"}
+![Roadmap](..\images\SBE\Roadmap.jpg)
 
 Resultaat
 =========
